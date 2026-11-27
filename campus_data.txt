@@ -1,0 +1,15 @@
+id|parent_id|type|name|category|description
+1|0|BLOCK|A Block|Academic|Academic Block
+2|0|BLOCK|B Block|Academic|Academic Block
+3|0|BLOCK|N Block|Academic|Academic Block
+4|0|BLOCK|P Block|Academic|Academic Block
+5|0|BLOCK|C Block|Hostel|Boys Hostel
+6|0|BLOCK|D Block|Hostel|Girls Hostel
+7|0|BLOCK|K Block|Sports|Sports Complex
+8|0|BLOCK|M Block|Other|Faculty and LRC
+9|1|FLOOR|FLOOR 1|Academic|First Floor of A block
+10|9|CLASSROOM|A-CC-003|Academic|Classroom 003
+11|1|FLOOR|Floor 2|Academic|Second Floor of A Block
+12|9|LAB|Computer Lab|Academic|Computer Laboratory
+13|3|FLOOR|FLOOR 0|Academic|Classrooms
+14|13|CLASSROOM|N-CC-011|Academic|Lecture Hall
